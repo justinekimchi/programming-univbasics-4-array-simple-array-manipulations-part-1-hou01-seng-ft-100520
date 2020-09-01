@@ -11,6 +11,6 @@ def using_pop(array)
  end
  
 def using_pop_with_args(array)
-  array.pop(2,-1)
+  array.pop_with_args(2,-1)
   #what does it mean to return a value?
 end
