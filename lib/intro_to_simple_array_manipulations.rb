@@ -10,12 +10,15 @@ def using_pop(array)
   array.pop
  end
  
-def pop_with_args(array)
-  array.pop_with_args(2,-1)
+#def pop_with_args(array)
+#  array.pop_with_args(2,-1)
   #what does it mean to return a value?
-end
+#end
 
 def using_shift(array)
   array.shift
 end
 
+def shift_with_args(array)
+  
+end
