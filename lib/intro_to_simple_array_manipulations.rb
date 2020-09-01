@@ -14,3 +14,7 @@ def using_pop_with_args(array)
   array.pop(2,-1)
   #what does it mean to return a value?
 end
+
+def using_shift(array)
+  array.shift
+end
